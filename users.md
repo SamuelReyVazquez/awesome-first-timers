@@ -342,4 +342,10 @@
   Place: India
   Bio: Student Developer
   Github: [mayank26saxena](https://github.com/mayank26saxena) 
+  
+  
+  - Name: Samuel Rey
+  Place: Spain
+  Bio: Student Developer
+  Github: [samuelreyvazquez](https://github.com/samuelreyvazquez) 
 
